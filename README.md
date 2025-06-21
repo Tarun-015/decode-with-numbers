@@ -20,3 +20,8 @@ Let’s make math less scary, more friendly — and absolutely worth exploring.
 Will try to decode atleast 4-5 logics in a month.
 Stay tuned. Let’s decode math, one story at a time.
 
+
+Articles ::
+
+1. Decoding Maths Behind PUBG
+2. Birthday Paradox
